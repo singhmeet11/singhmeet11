@@ -9,7 +9,5 @@
 <!---
 I am a Applied Physics student who is mainly intersted in Quantum Computing and Simulations.. 
 --->
-<! ---
-![Parmeet's github stats](https://github-readme-stats.vercel.app/api?username=singhmeet11)---
-!>
+< ![Parmeet's github stats](https://github-readme-stats.vercel.app/api?username=singhmeet11) >
 
