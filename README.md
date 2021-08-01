@@ -8,3 +8,4 @@
 <!---
 I am a Applied Physics student who is mainly intersted in Quantum Computing and Simulations.. 
 --->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singhmeet11)
