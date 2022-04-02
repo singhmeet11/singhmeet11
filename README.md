@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on almost everything
 - 📫 How to reach me - singh.meet11@gmail.com
 - Bloggin website - [Quantum World](https://quantumworld8.github.io/qc-world/#/)
-
+- [Google Scholar](https://scholar.google.com/citations?user=EyqTy60AAAAJ&hl=en)
 <!---
-I am a Applied Physics student who is mainly intersted in Quantum Computing and Simulations.. 
+I am a Applied Physics student who is mainly intersted in Quantum Computing and Material Sciences 
 --->
